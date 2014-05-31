@@ -36,3 +36,4 @@ You can find installation instructions for Pawtucket at http://docs.collectiveac
 Release notes are available at http://docs.collectiveaccess.org/wiki/Release_Notes_for_Pawtucket_1.4
 
 If you are updating an existing installation see http://docs.collectiveaccess.org/wiki/Upgrading_Pawtucket
+=======
